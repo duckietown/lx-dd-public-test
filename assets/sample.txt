@@ -1,0 +1,1 @@
+Shared sample asset for sync testing.

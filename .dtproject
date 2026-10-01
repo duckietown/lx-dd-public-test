@@ -1,0 +1,8 @@
+# Synthetic LX metadata for sync testing; the recipe is a placeholder.
+VERSION=0.0.0
+TYPE=template-exercise
+TYPE_VERSION=3
+NAME=dd-lx-sync-test
+RECIPE_REPOSITORY=duckietown/lx-dd-test-recipe
+RECIPE_BRANCH=ente
+RECIPE_LOCATION=
